@@ -7,3 +7,5 @@ local tbl = {
     end
 }
 _G.Github = tbl
+
+print(_VERSION)
