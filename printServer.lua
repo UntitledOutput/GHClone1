@@ -10,3 +10,4 @@ _G.Github = tbl
 
 print(_VERSION)
 
+print("What's up Roblox!")
